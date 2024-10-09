@@ -9,9 +9,11 @@ app.UseRouting();
 app.UseEndpoints(endpoints =>
 {
     // add your endPoints...
-    endpoints.Map("/map1", (HttpContext context) =>
+    endpoints.Map("/files/{filename}.{extension}", async (HttpContext context) =>
     {
-        context.Response.WriteAsync("Hello! This is Map1");
+        string? fileName = context.Request.RouteValues["filename"].ToString();
+        string? extension = context.Request.RouteValues["extension"].ToString();
+        await context.Response.WriteAsync($"Hello! File request sent...{fileName}.{extension}");
     });
 
     endpoints.MapGet("/map2", (HttpContext context) =>

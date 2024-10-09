@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Routing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c46473e4e74bf26b583196d7bf6c2c63b79d79a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d67aa50cc09f9dd02f1423fc10231524d5d8b1a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Routing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Routing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
