@@ -1,0 +1,12 @@
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Entities\bin\Debug\net8.0\Entities.deps.json
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Entities\bin\Debug\net8.0\Entities.dll
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Entities\bin\Debug\net8.0\Entities.pdb
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Entities\obj\Debug\net8.0\Entities.dll
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Entities\obj\Debug\net8.0\refint\Entities.dll
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Entities\obj\Debug\net8.0\Entities.pdb
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Entities\obj\Debug\net8.0\ref\Entities.dll

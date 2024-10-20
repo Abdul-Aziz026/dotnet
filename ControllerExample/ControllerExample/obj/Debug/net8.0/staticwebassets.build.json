@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "X8gHvC2SoGSDy8/FDhwW8fPfq2VEDgSIWw8Ezab4rKA=",
+  "Source": "ControllerExample",
+  "BasePath": "_content/ControllerExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerExample\\wwwroot",
+      "Source": "ControllerExample",
+      "ContentRoot": "F:\\Orbitax\\dotnet\\dotnet\\ControllerExample\\ControllerExample\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Orbitax\\dotnet\\dotnet\\ControllerExample\\ControllerExample\\wwwroot\\Rahe-Bilawat.pdf",
+      "SourceId": "ControllerExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Orbitax\\dotnet\\dotnet\\ControllerExample\\ControllerExample\\wwwroot\\",
+      "BasePath": "_content/ControllerExample",
+      "RelativePath": "Rahe-Bilawat.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rahe-Bilawat.pdf"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Orbitax\\dotnet\\dotnet\\ControllerExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD7F6B-E7DF-48A7-BF52-15FF9D592F00}|ControllerExample\\ControllerExample.csproj|f:\\orbitax\\dotnet\\dotnet\\controllerexample\\controllerexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFD7F6B-E7DF-48A7-BF52-15FF9D592F00}|ControllerExample\\ControllerExample.csproj|solutionrelative:controllerexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD7F6B-E7DF-48A7-BF52-15FF9D592F00}|ControllerExample\\ControllerExample.csproj|f:\\orbitax\\dotnet\\dotnet\\controllerexample\\controllerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFD7F6B-E7DF-48A7-BF52-15FF9D592F00}|ControllerExample\\ControllerExample.csproj|solutionrelative:controllerexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFD7F6B-E7DF-48A7-BF52-15FF9D592F00}|ControllerExample\\ControllerExample.csproj|f:\\orbitax\\dotnet\\dotnet\\controllerexample\\controllerexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFD7F6B-E7DF-48A7-BF52-15FF9D592F00}|ControllerExample\\ControllerExample.csproj|solutionrelative:controllerexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "F:\\Orbitax\\dotnet\\dotnet\\ControllerExample\\ControllerExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ControllerExample\\Models\\Person.cs",
+              "ToolTip": "F:\\Orbitax\\dotnet\\dotnet\\ControllerExample\\ControllerExample\\Models\\Person.cs",
+              "RelativeToolTip": "ControllerExample\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:38:30.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Orbitax\\dotnet\\dotnet\\ControllerExample\\ControllerExample\\Program.cs",
+              "RelativeDocumentMoniker": "ControllerExample\\Program.cs",
+              "ToolTip": "F:\\Orbitax\\dotnet\\dotnet\\ControllerExample\\ControllerExample\\Program.cs",
+              "RelativeToolTip": "ControllerExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:13:17.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Orbitax\\dotnet\\dotnet\\ControllerExample\\ControllerExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllerExample\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Orbitax\\dotnet\\dotnet\\ControllerExample\\ControllerExample\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "ControllerExample\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwCoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:05:33.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

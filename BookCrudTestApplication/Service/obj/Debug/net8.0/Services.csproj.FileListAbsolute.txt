@@ -1,0 +1,6 @@
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Service\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Service\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Service\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Service\obj\Debug\net8.0\Services.AssemblyInfo.cs
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Service\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\Service\obj\Debug\net8.0\Services.sourcelink.json
