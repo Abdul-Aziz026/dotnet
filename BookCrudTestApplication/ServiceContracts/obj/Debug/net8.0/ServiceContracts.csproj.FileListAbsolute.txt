@@ -4,3 +4,13 @@ F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\obj\Debug\net8
 F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
 F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
 F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\obj\Debug\net8.0\ServiceContracts.sourcelink.json
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\bin\Debug\net8.0\Entities.dll
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\bin\Debug\net8.0\Entities.pdb
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\obj\Debug\net8.0\ServiceC.04662A29.Up2Date
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+F:\Orbitax\dotnet\dotnet\BookCrudTestApplication\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll

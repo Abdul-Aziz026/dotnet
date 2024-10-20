@@ -1,0 +1,12 @@
+F:\Orbitax\dotnet\dotnet\bookCRUD\Services\bin\Debug\net8.0\Services.deps.json
+F:\Orbitax\dotnet\dotnet\bookCRUD\Services\bin\Debug\net8.0\Services.dll
+F:\Orbitax\dotnet\dotnet\bookCRUD\Services\bin\Debug\net8.0\Services.pdb
+F:\Orbitax\dotnet\dotnet\bookCRUD\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Orbitax\dotnet\dotnet\bookCRUD\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+F:\Orbitax\dotnet\dotnet\bookCRUD\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+F:\Orbitax\dotnet\dotnet\bookCRUD\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+F:\Orbitax\dotnet\dotnet\bookCRUD\Services\obj\Debug\net8.0\Services.sourcelink.json
+F:\Orbitax\dotnet\dotnet\bookCRUD\Services\obj\Debug\net8.0\Services.dll
+F:\Orbitax\dotnet\dotnet\bookCRUD\Services\obj\Debug\net8.0\refint\Services.dll
+F:\Orbitax\dotnet\dotnet\bookCRUD\Services\obj\Debug\net8.0\Services.pdb
+F:\Orbitax\dotnet\dotnet\bookCRUD\Services\obj\Debug\net8.0\ref\Services.dll
